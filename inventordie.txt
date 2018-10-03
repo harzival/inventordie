@@ -2,5 +2,6 @@
 {
 	"base"		"sandbox"
 	"title"		"Invent or Die"
+	"maps"		""
 	"menusystem"	"1"
 }
