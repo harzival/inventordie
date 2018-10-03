@@ -1,0 +1,6 @@
+"inventordie"
+{
+	"base"		"sandbox"
+	"title"		"Invent or Die"
+	"menusystem"	"1"
+}
